@@ -17,7 +17,7 @@ yarn install
 ```
 
 ```bash
-yarn dev -o
+yarn dev
 ```
 
 ## test
