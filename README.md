@@ -16,7 +16,7 @@ code nuxt-app
 yarn install
 ```
 
-``bash
+```bash
 yarn dev -o
 ```
 
