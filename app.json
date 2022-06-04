@@ -1,0 +1,7 @@
+{
+    "name": "nuxt3 sample",
+    "description": "nuxt3のサンプルアプリケーション",
+    "env": {
+        "NPM_CONFIG_PRODUCTION": "false"
+    }
+}
